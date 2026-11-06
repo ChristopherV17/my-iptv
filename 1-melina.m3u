@@ -1,15 +1,136 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Space.ar@Panregional",Space (1080p)
+#EXTINF:-1 tvg-id="7_Teletica.pa",Teletica 7
+http://190.61.101.11:7050/play/a07t/index.m3u8
+#EXTINF:-1 tvg-id="Canal8.cr",Canal 8  [Not 24/7]
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1 tvg-id="Canal11.cr",Canal 11
+http://45.5.117.188:8000/play/a02w/index.m3u8
+#EXTINF:-1 tvg-id="CNNespanol.us",CNN en Espanol
+https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNinternational.us",CNN International 
+http://168.228.44.241:9997/play/a073/index.m3u8
+#EXTINF:-1 tvg-id="Azteca7.mx",Azteca 7
+http://187.245.231.226:8000/play/a0uz/index.m3u8
+#EXTINF:-1 tvg-id="Bandamax.mx",Bandamax
+http://181.78.106.127:5000/play/ca064/index.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx",Canal 5 XET-TDT
+http://45.5.118.152:8000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-id="Telemax.ar",Telemax (XEWH-TDT)
+https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
+#EXTINF:-1 tvg-id="UMTV.mx@SD",UMTV  [Not 24/7]
+https://stream.unison.mx/hls/unisontvatem.m3u8
+#EXTINF:-1 tvg-id="E!.mx",E! Mexico
+http://72.1.184.5:8089/play/a05d/index.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.mx",Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas-1.mx",Las Estrellas
+https://streaming.onnethn.com/LAS_ESTRELLAS_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="TLNovelas.cr",Tlnovelas
+http://138.121.15.230:9002/TELENOVELAS/index.m3u8
+#EXTINF:-1 tvg-id="TLNovelas.mx",Tlnovelas Mexico 
+http://167.249.23.102:8000/play/a0g8/index.m3u8
+#EXTINF:-1 tvg-id="UnivisionTLnovelas.us",Univision Tlnovelas
+http://200.115.120.1:8000/play/ca110/index.m3u8
+#EXTINF:-1 tvg-id="Univision.mx",Univision
+http://190.93.224.42/UNIVISION/index.m3u8
+#EXTINF:-1 tvg-id="Telemundo.us",Telemundo East
+https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-id="Telemundo.mx",Telemundo Internacional
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/54.m3u8
+#EXTINF:-1 tvg-id="TelemundoTwo.pr",Telemundo WKAQ-TV
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8
+#EXTINF:-1 tvg-id="Pasiones.us",Pasiones
+http://45.173.231.22:8000/play/a06n/index.m3u8
+#EXTINF:-1 tvg-id="TNTNovelas.mx",TNT Novelas
+http://158.172.155.130:8000/play/a0at/index.m3u8
+#EXTINF:-1 tvg-id="TNT.mx",TNT
+http://45.171.64.30:6060/play/a03i/index.m3u8
+#EXTINF:-1 tvg-id="DePelícula.mx",De Pelicula
+http://15.204.196.147:22880/RECEPCION-DPELICULA-LATAM-FHD/video.m3u8
+#EXTINF:-1 tvg-id="Multipremier.mx",MultiPremier 
+http://168.196.127.137:6001/play/a08n/index.m3u8
+#EXTINF:-1 tvg-id="Golden.mx",Golden 
+http://15.204.196.147:22880/RECEPCION-GOLDEN_LAT-FHD/video.m3u8
+#EXTINF:-1 tvg-id="GoldenEdge.mx",Golden Edge 
+http://15.204.196.147:22880/RECEPCION-GOLDEN_EDGE-LATAM-FHD/video.m3u8
+#EXTINF:-1 tvg-id="GoldenPlus.mx",Golden Plus 
+http://45.5.118.152:8000/play/a03p/index.m3u8
+#EXTINF:-1 tvg-id="GoldenPremier.mx",Golden Premier 
+http://200.57.28.141:8540/play/a0ln
+#EXTINF:-1 tvg-id="GoldenPremier2.mx",Golden Premier 2 
+http://200.57.28.141:8540/play/a0lo
+#EXTINF:-1 tvg-id="AXN.mx",AXN 
+https://streaming.onnethn.com/AXN_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="AXNAndes.ec",AXN
+http://181.78.8.199:8000/play/a0cu/index.m3u8
+#EXTINF:-1 tvg-id="AXN.ar",AXN 2
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/10.m3u8
+#EXTINF:-1 tvg-id="CinePremium.us@SD",Cine Premium
+http://190.61.90.17:40000/play/a02i/index.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.mx",Cinecanal
+https://barinaslive1.boldmss.com/CINECANAL/CINECANAL.isml/CINECANAL.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.ar",Cinecanal Sur
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/17.m3u8
+#EXTINF:-1 tvg-id="CinemaxSpanish.us",Cinemax Latin America
+https://streaming.onnethn.com/CINEMAX/playlist.m3u8
+#EXTINF:-1 tvg-id="CinemaxLatinAmerica.us@HD",Cinemax HD
+http://38.65.175.84:8000/play/a093/index.m3u8
+#EXTINF:-1 tvg-id="FX.mx",FX
+https://barinaslive1.boldmss.com/FX/FX.isml/FX.m3u8
+#EXTINF:-1 tvg-id="HBO.mx",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://streaming.onnethn.com/HBO/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO2.mx",HBO 2 HD
+http://45.171.64.30:6060/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="HBOFamily.mx",HBO Family
+http://45.171.64.30:6060/play/a00k/index.m3u8
+#EXTINF:-1 tvg-id="StudioUniversal.ar",Studio Universal
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/53.m3u8
+#EXTINF:-1 tvg-id="UniversalTV.co",Universal TV
+http://38.134.250.110:8000/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel.co",Warner Channel Colombia
+http://38.134.250.110:8000/play/a029/index.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel.ar",Warner Channel Sur
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/68.m3u8
+#EXTINF:-1 tvg-id="Space.ar",Space
 http://45.171.64.30:6060/play/a04n/index.m3u8
-#EXTINF:-1 tvg-id="Space.ar@South",Space South (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/space.stream/playlist.m3u8
-http://45.171.64.30:6060/play/a04n/index.m3u8
-#EXTINF:-1 tvg-id="ElGourmet.ar@Panregional",El Gourmet (1080p)
-http://15.204.246.24:8080/ElGourmetHD/index.m3u8
-#EXTINF:-1 tvg-id="ElGourmet.ar@Panregional",El Gourmet (1080p)
-http://138.121.15.230:9002/EL-GOURMET/index.m3u8
-#EXTINF:-1 tvg-id="ElGourmet.ar@Panregional",El Gourmet (1080p)
+#EXTINF:-1 tvg-id="ElGourmet.ar",El Gourmet 
 http://190.61.101.11:7050/play/a09s/index.m3u8?hls
-#EXTINF:-1 tvg-id="ElGourmet.ar@South",El Gourmet South (1080p)
-https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.us",Food Network
+http://168.196.127.137:6001/play/a09v/index.m3u8
+#EXTINF:-1 tvg-id="History.ar",History
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8
+#EXTINF:-1 tvg-id="History2.mx",History 2 
+http://181.225.190.242:8000/play/a023
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx",Discovery Channel
+http://45.171.64.30:6060/play/a032/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHome&Health.mx",Discovery Home & Health
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscoveryLatinAmerica.us@South",Investigation Discovery
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/41.m3u8
+#EXTINF:-1 tvg-id="Lifetime.mx",Lifetime
+https://streaming.onnethn.com/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="LoveNature.us",Love Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
+https://bantel-cdn1.iptvperu.tv:1936/ZyphraCast/love-nature/chunks.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.mx",National Geographic
+https://barinaslive1.boldmss.com/NATGEO/NATGEO.isml/NATGEO.m3u8
+#EXTINF:-1 tvg-id="ESPN.ar",ESPN
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
+#EXTINF:-1 tvg-id="ESPN2.ar",ESPN 2
+https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
+#EXTINF:-1 tvg-id="ESPN3.ar",ESPN 3
+https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
+#EXTINF:-1 tvg-id="ESPN4.ar",ESPN 4
+https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
+#EXTINF:-1 tvg-id="ESPN5.ec",ESPN 5
+https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
+#EXTINF:-1 tvg-id="ESPN6.ec",ESPN 6
+https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
+#EXTINF:-1 tvg-id="ESPN7.ec",ESPN 7
+https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
+#EXTINF:-1 tvg-id="ESPNExtra.ar",ESPN Extra 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd
+#EXTINF:-1 tvg-id="NBAtv.us",NBA TV
+http://23.237.104.106:8080/USA_NBA/index.m3u8

@@ -92,6 +92,10 @@ http://38.134.250.110:8000/play/a006/index.m3u8
 http://38.134.250.110:8000/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel.us@South",Warner Channel South
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/68.m3u8
+#EXTINF:-1 tvg-id="Space.ar@Panregional",Space (1080p)
+http://45.171.64.30:6060/play/a04n/index.m3u8
+#EXTINF:-1 tvg-id="ElGourmet.ar@Panregional",El Gourmet (1080p)
+http://190.61.101.11:7050/play/a09s/index.m3u8?hls
 #EXTINF:-1 tvg-id="FoodNetworkLatinAmerica.us@Panregional",Food Network Latin America (1080p)
 http://168.196.127.137:6001/play/a09v/index.m3u8
 #EXTINF:-1 tvg-id="HistoryLatinAmerica.us@South",History Latin America South
