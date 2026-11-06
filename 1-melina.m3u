@@ -1,119 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Azteca7.mx@SD",Azteca 7 (1080p)
-http://187.245.231.226:8000/play/a0uz/index.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx@SD",Azteca 7 (720p)
-http://200.35.176.154:8000/play/a064/index.m3u8
-#EXTINF:-1 tvg-id="Bandamax.mx@SD",Bandamax (1080p)
-http://181.78.106.127:5000/play/ca064/index.m3u8
-#EXTINF:-1 tvg-id="Bandamax.mx@SD",Bandamax (1080p)
-https://streaming.onnethn.com/Bandamax/index.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx@SD",Canal 5 (1080p)
-http://45.181.87.106/CANAL5HD/index.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx@SD",Canal 5 (1080p)
-http://45.189.151.7:8000/play/a05s
-#EXTINF:-1 tvg-id="Canal5.mx@SD",Canal 5 (1080p)
-http://132.255.210.69:8000/play/a06e
-#EXTINF:-1 tvg-id="Canal5.mx@SD",Canal 5 (1080p)
-http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx@SD",Canal 5 (576p)
-http://206.135.11.174:8010/play/a0fl/index.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx@SD",Canal 5 (720p) [Geo-blocked]
-http://45.5.119.43:4000/play/a05o/index.m3u8
-#EXTINF:-1 tvg-id="Canal5TVCozumel.mx@SD",Canal 5 TV Cozumel (1080p)
-https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx@XETTDT",Canal 5 XET-TDT (1080p)
-http://45.5.118.152:8000/play/a03i/index.m3u8
-#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx@SD",De Pelicula Latin America (1080p)
-http://15.204.196.147:22880/RECEPCION-DPELICULA-LATAM-FHD/video.m3u8
-#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx@SD",De Pelicula Latin America (1080p)
-http://38.19.41.46:8081/DEPELICULA/index.m3u8
-#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx@SD",De Pelicula Latin America (1080p)
-http://209.14.115.253:8081/DE-PELICULA/index.m3u8
-#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx@SD",De Pelicula Latin America (720p)
-http://181.224.200.5:2277/play/a0d1/index.m3u8
-#EXTINF:-1 tvg-id="DePeliculaPlus.mx@SD",De Pelicula Plus (1080p)
-http://200.115.120.1:8000/play/ca030/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryHomeHealthLatinAmerica.mx@South",Discovery Home & Health Latin America South
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
-#EXTINF:-1 tvg-id="Golden.mx@Panregional",Golden (1080p)
-http://15.204.196.147:22880/RECEPCION-GOLDEN_LAT-FHD/video.m3u8
-#EXTINF:-1 tvg-id="Golden.mx@Panregional",Golden (1080p)
-http://38.19.41.46:8081/MTV/index.m3u8
-#EXTINF:-1 tvg-id="Golden.mx@Panregional",Golden (1080p)
-http://168.196.127.137:6001/play/a06y/index.m3u8
-#EXTINF:-1 tvg-id="Golden.mx@Panregional",Golden (1080p)
-http://181.224.200.5:2277/play/a0do/index.m3u8
-#EXTINF:-1 tvg-id="Golden.mx@Panregional",Golden (1080p)
-http://209.14.115.253:8081/GOLDEN/index.m3u8
-#EXTINF:-1 tvg-id="Golden.mx@Panregional",Golden (720p)
-http://138.121.15.230:9002/GOLDEN/index.m3u8
-#EXTINF:-1 tvg-id="GoldenEdge.mx@Panregional",Golden Edge (1080p)
-http://15.204.196.147:22880/RECEPCION-GOLDEN_EDGE-LATAM-FHD/video.m3u8
-#EXTINF:-1 tvg-id="GoldenEdge.mx@Panregional",Golden Edge (1080p)
-http://38.19.41.46:8081/GOLDENEDGE/index.m3u8
-#EXTINF:-1 tvg-id="GoldenEdge.mx@Panregional",Golden Edge (1080p)
-http://138.121.15.230:9002/GOLDEN-EDGE/index.m3u8
-#EXTINF:-1 tvg-id="GoldenEdge.mx@Panregional",Golden Edge (1080p)
-http://168.196.127.137:6001/play/a09p/index.m3u8
-#EXTINF:-1 tvg-id="GoldenEdge.mx@Panregional",Golden Edge (1080p)
-http://181.78.12.119:16123/play/ch47/index.m3u8
-#EXTINF:-1 tvg-id="GoldenEdge.mx@Panregional",Golden Edge (1080p)
-http://181.224.200.5:2277/play/a0bd/index.m3u8
-#EXTINF:-1 tvg-id="GoldenEdge.mx@Panregional",Golden Edge (1080p)
-http://209.14.115.253:8081/GOLDEN-EDGE/index.m3u8
-#EXTINF:-1 tvg-id="GoldenPlus.mx@SD",Golden Plus (1080p)
-http://45.5.118.152:8000/play/a03p/index.m3u8
-#EXTINF:-1 tvg-id="GoldenPremier.mx@SD",Golden Premier (1080p)
-http://200.57.28.141:8540/play/a0ln
-#EXTINF:-1 tvg-id="GoldenPremier.mx@SD",Golden Premier (1080p)
-http://200.229.147.210:9999/play/a00k/index.m3u8
-#EXTINF:-1 tvg-id="GoldenPremier2.mx@SD",Golden Premier 2 (1080p)
-http://200.57.28.141:8540/play/a0lo
-#EXTINF:-1 tvg-id="GoldenPremier2.mx@SD",Golden Premier 2 (1080p)
-http://200.229.147.210:9999/play/a00l/index.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.mx@SD",Las Estrellas (1080p)
-http://45.189.151.7:8000/play/a07s
-#EXTINF:-1 tvg-id="LasEstrellas.mx@SD",Las Estrellas (1080p)
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx@SD",Las Estrellas Latin America (1080p)
-http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx@SD",Las Estrellas Latin America (1080p)
-http://38.44.109.41:8003/play/a0he
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx@SD",Las Estrellas Latin America (1080p)
-http://190.93.224.42/CANAL-LAS-ESTRELLAS/index.m3u8
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx@SD",Las Estrellas Latin America (1080p)
-http://209.14.115.253:8081/LAS-ESTRELLAS/index.m3u8
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx@SD",Las Estrellas Latin America (1080p)
-https://streaming.onnethn.com/LAS_ESTRELLAS_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="MultiPremier.mx@SD",MultiPremier (1080p)
-http://168.196.127.137:6001/play/a08n/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.mx@SD",National Geographic (1080p)
-http://138.121.15.230:9002/NAT-GEO/index.m3u8
-#EXTINF:-1 tvg-id="Telemax.mx@XEWHTDT",Telemax (XEWH-TDT) (1080p)
-https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
-#EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx@SD",Tlnovelas Latin America (1080p)
-http://138.121.15.230:9002/TELENOVELAS/index.m3u8
-#EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx@SD",Tlnovelas Latin America (1080p)
-http://209.14.115.253:8081/TELENOVELAS/index.m3u8
-#EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx@SD",Tlnovelas Latin America (720p)
-http://181.78.211.244:8005/play/a09n
-#EXTINF:-1 tvg-id="TlnovelasMexico.mx@SD",Tlnovelas Mexico (1080p)
-http://167.249.23.102:8000/play/a0g8/index.m3u8
-#EXTINF:-1 tvg-id="TRCTV.mx@SD",TRC Televisión (720p)
-https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8
-#EXTINF:-1 tvg-id="TUDN.mx@SD",TUDN (1080p)
-https://streaming.alwaysdata.net/tudn.php
-#EXTINF:-1 tvg-id="TUDN.mx@SD",TUDN (576p)
-http://45.5.118.152:8000/play/a08n/index.m3u8
-#EXTINF:-1 tvg-id="TuristikTV.mx@SD",Turistik TV (720p)
-https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
-#EXTINF:-1 tvg-id="TVBUAP.mx@SD",TV BUAP (1080p)
-https://tvenvivo.buap.mx/livestream/stream/index.m3u8
-#EXTINF:-1 tvg-id="UMTV.mx@SD",UMTV (1080p) [Not 24/7]
-https://stream.unison.mx/hls/unisontvatem.m3u8
-#EXTINF:-1 tvg-id="UnivisionLatinAmerica.mx@SD",Univision Latin America (1080p)
-http://15.204.246.24:8080/UnivisionHD/index.m3u8
-#EXTINF:-1 tvg-id="UnivisionLatinAmerica.mx@Panregional",Univision Latin America (1080p)
-http://138.121.15.230:9002/UNIVISION/index.m3u8
-#EXTINF:-1 tvg-id="UnivisionLatinAmerica.mx@SD",Univision Latin America (1080p)
-http://190.93.224.42/UNIVISION/index.m3u8
+#EXTINF:-1 tvg-id="Canal1.cr@SD",Canal 1 (720p) [Not 24/7]
+https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
+#EXTINF:-1 tvg-id="Canal2.cr@SD",Canal 2 (720p) [Not 24/7]
+https://d2hha8xu9trvi8.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-id="Canal2.cr@SD",Canal 2 (576p) [Geo-blocked]
+https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="Canal3KMKTV.cr@SD",Canal 3 KMK TV (720p)
+https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
+#EXTINF:-1 tvg-id="Canal4.cr@SD",Canal 4 (720p)
+http://45.186.106.207:8000/play/a09t/index.m3u8
+#EXTINF:-1 tvg-id="Canal4.cr@SD",Canal 4 (720p)
+https://dlhn7gdemxofz.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-id="Canal4.cr@SD",Canal 4 (720p) [Geo-blocked]
+https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="Canal6.cr@SD",Canal 6 (720p)
+http://45.5.118.188:8000/play/a02x/index.m3u8
+#EXTINF:-1 tvg-id="Canal6.cr@SD",Canal 6 (720p)
+https://d3xpfoln9sj56.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-id="Canal6.cr@SD",Canal 6 (720p) [Geo-blocked]
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="Canal8.cr@SD",Canal 8 (720p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1 tvg-id="Canal10.cr@SD",Canal 10 (720p) [Not 24/7]
+https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="Canal10.cr@SD",Canal 10 (720p) [Geo-blocked]
+https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8
+#EXTINF:-1 tvg-id="Canal11.cr@SD",Canal 11 (720p)
+http://45.5.117.188:8000/play/a02w/index.m3u8
+#EXTINF:-1 tvg-id="Canal11.cr@SD",Canal 11 (720p)
+https://d3mstgwjcwqz1y.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-id="Canal11.cr@SD",Canal 11 (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Teletica7.cr@SD",Teletica 7 (1080p)
+http://190.61.101.11:7050/play/a07t/index.m3u8
+#EXTINF:-1 tvg-id="Teletica7.cr@SD",Teletica 7 (720p) [Not 24/7]
+http://181.119.177.253:8000/play/a0da
+#EXTINF:-1 tvg-id="Teletica7.cr@SD",Teletica 7 (720p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://bradmax.com/client/embed-player/c7c83ebb46fa89529a7383d933e2038729f8e4c9_13428?id=tv7&mediaUrl=https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8&mediaUrl2=https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist_dvr.m3u8
+https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
